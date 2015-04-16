@@ -1,0 +1,226 @@
+body {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;
+	margin:0;
+}
+.header1 {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	font-weight: bold;
+	color: #006600;
+	text-align: center
+}
+.text {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt
+}
+.textbold {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold
+}
+.textsmall {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt
+}
+.textboldWhite {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #FFFFFF
+}
+.header2 {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: #006600;
+	font-weight: bold;
+	text-align: center;
+}
+.textMauve {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #660033
+}
+.textBigBold {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #660033
+}
+.footer {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999
+}
+.hidden {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF
+}
+.textRed {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FF0000
+}
+.textGrey8pt {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #666666
+}
+.textGreen {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #008000
+}
+.butBox {
+	background-color: #CCCCCC;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	border-left-color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+.box {
+	border: 1px solid #000000;
+}
+.finger {
+	cursor: hand;
+	color: #008000;
+}
+.textSmallBold {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+}
+.textBoldWhiteSmall {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+	color: #FFFFFF
+}
+a {
+	text-decoration: none
+}
+a:link, a:visited {
+	color: #FFFFFF
+}
+a:active, a:hover {
+	text-decoration: underline;
+	color: #FFFFFF
+}
+.textIndent {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin-right: 10px;
+	margin-left: 10px
+}
+.formbut {
+	background-color: #C6ECB3;
+	border: 1px solid black;
+	font-family: arial, helvetica, sans-serif;
+	color: white;
+	font-size: 10px
+}
+.form {
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 10px;
+}
+.boxRed {
+	border: 1px solid #FF0000;
+}
+.header2White {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+}
+.textBigBoldGreen {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #006600
+}
+.textRedSmall {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #FF0000
+}
+.textRedSmallUl {
+	font-size: 8pt;
+	color: #FF0000;
+	text-decoration: underline
+}
+.textWhite {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FFFFFF
+}
+.textBoldRed {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FF0000;
+	font-weight: bold;
+}
+.textWhiteSmall {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF
+}
+.textGreenSmall {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #008000;
+}
+.textGreenSmallBold {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+	color: #008000;
+}
+.help {
+	cursor: help
+}
+.textGreenBold {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #006600;
+}
+.greenbut {
+	background-color: #006600;
+	border: 1px outset white;
+	font-family: arial, helvetica, sans-serif;
+	font-weight: bold;
+	color: white;
+	font-size: 8pt
+}
+.popup {
+	color: #9F141A;
+	cursor: help;
+	text-decoration: none
+}
+#buttons a {
+	display: block;
+}
+#help a {
+	cursor: help;
+}
+#logout a {
+	display: block;
+}
+.textsmallitalic {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-style: italic;
+}
