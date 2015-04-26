@@ -329,7 +329,7 @@ switch ($request_format) {
 
 		}
 
-		if (strpos($data_url,"https://")) {
+		if (strpos($data_url,"https://") !== FALSE) {
 			curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 			curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 2);
 		}
